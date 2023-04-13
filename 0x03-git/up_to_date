@@ -1,1 +1,1 @@
-git fetch  git merge
+git fetch git pull git stash git merge
